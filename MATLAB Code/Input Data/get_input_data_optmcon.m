@@ -10,7 +10,7 @@ function outputs = get_input_data_optmcon(r,Hw)
 
 %% Parameters/Variables
 input.mode = 'HFD';  % choose between 'HFD', 'CFD', 'MFD'
-input.rhoa = 63;  % density of dry air (kg/m3)
+input.rhoa = 63;  % density of dried layer (kg/m3)
 input.rhof = 917;  % density of the frozen region (kg/m3)
 input.Cpf = 1967.8;  % heat capacity of the frozen region (J/kgK)
 input.kf = 2.30;  % thermal conductivity of the frozen region (kg/m3)
