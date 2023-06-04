@@ -5,6 +5,6 @@ This repository contains MATLAB code for the paper "Analytical Solutions for the
 
 
 # Citing
-If the material in this repository useful for your work, please cite the following article:
+If the material in this repository is useful for your work, please cite the following article:
 https://doi.org/10.1016/j.compchemeng.2023.108318
 
