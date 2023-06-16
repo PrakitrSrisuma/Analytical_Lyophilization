@@ -8,8 +8,6 @@ This repository contains the MATLAB code for the paper "Analytical Solutions for
 If the material in this repository is useful for your work, please cite the following article:
 https://doi.org/10.1016/j.compchemeng.2023.108318
 
-Srisuma, P., Barbastathis, G., Braatz, R.D., 2023. Analytical solutions for the modeling, optimiza-
-tion, and control of microwave-assisted freeze drying. Computers & Chemical Engineering 177,
-108318. doi:10.1016/j.compchemeng.2023.108318.
+Srisuma, P., Barbastathis, G., Braatz, R.D., 2023. Analytical solutions for the modeling, optimization, and control of microwave-assisted freeze drying. Computers & Chemical Engineering 177, 108318. doi:10.1016/j.compchemeng.2023.108318.
 
 
