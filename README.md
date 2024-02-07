@@ -1,5 +1,5 @@
 # Microwave-Lyophilization
-This repository contains the MATLAB code for the paper "Analytical Solutions for the Modeling, Optimization, and Control of Microwave-assisted Freeze Drying" published in "Computers and Chemical Engineering".
+This repository contains software for the paper "Analytical Solutions for the Modeling, Optimization, and Control of Microwave-assisted Freeze Drying" published in "Computers and Chemical Engineering".
 
 
 # Citing
