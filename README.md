@@ -1,4 +1,4 @@
-# lyo-analytical-microwave
+# Introduction
 This repository contains software for the paper "Analytical Solutions for the Modeling, Optimization, and Control of Microwave-assisted Freeze Drying" published in "Computers and Chemical Engineering".
 
 
